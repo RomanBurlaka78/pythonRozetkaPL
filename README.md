@@ -1,1 +1,1 @@
-### PythonRozetkaPL - this is project for testing basic functionality of e-store [Rozetka.pl](https://rozetka.pl/)
+### PythonRozetkaPL -  is a project for testing the basic functionality of the e-store [Rozetka.pl](https://rozetka.pl/)
