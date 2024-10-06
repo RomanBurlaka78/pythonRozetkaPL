@@ -1,0 +1,1 @@
+### PythonRozetkaPL - this is project for testing basic functionality of e-store [Rozetka.pl](https://rozetka.pl/)
